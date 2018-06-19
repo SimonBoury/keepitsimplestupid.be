@@ -6,7 +6,7 @@ date:   2017-09-25 18:00:00
 categories: [land]
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/119957484@N07/albums/72157668262701317" title="2018 04 Chartreuse Savoie"><img src="https://farm1.staticflickr.com/899/42907682541_183ee1dc9a_h.jpg" width="360" height="1600" alt="2018 04 Chartreuse Savoie"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<iframe align="center" src="http://flickrslidr.com/slideshow/view.php?g=VmKeek" frameBorder="0" width="900" height="500" scrolling="no"></iframe>
 
 Indien we het gros van onze voeding uit meerjarige ecosystemen willen halen, zullen we uiteraard ook ons voedingspatroon moeten aanpassen. Die aanpassing hoeft heus niet zo drastisch te zijn. 
 
