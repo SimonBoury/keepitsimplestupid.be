@@ -1,6 +1,6 @@
 ---
 layout: page
-title: -who-
-subtitle: which fool started this project?
+title: which...
+subtitle: fool started this project?
 permalink: /who/
 ---
