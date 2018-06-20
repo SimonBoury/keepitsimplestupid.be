@@ -1,6 +1,6 @@
 ---
 layout: page
-title: -why-
+title: why...
 subtitle: I do what I do
 permalink: /why/
 ---
