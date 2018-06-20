@@ -1,7 +1,7 @@
 ---
 layout: page
-title: why
-subtitle: my "raison d'etre", why I do what I do
+title: -why-
+subtitle: I do what I do
 permalink: /why/
 ---
 
