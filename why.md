@@ -5,6 +5,12 @@ subtitle: I do what I do
 permalink: /why/
 ---
 
+This blog describes my rational (sometimes foolish) approach to a decluttered life where I try to reclaim stolen time.
+
+This is a journey about the rational approach to a decluttered life and some foolish adventures along the way.
+
+Antoine de St. Exupery: "Perfection is reached
+
 I wouldn't say that the bike in this picture started it all but it triggered a lot of my thoughts about minimalism and enjoying the "bare maximum". It's a singlespeed Kona Unit 2015 that I bought secondhand for 500 euro. Since then it tought me a lot about how reducing options can result in a more decluttered way of thinking and even resulting in a better outcome.
 ![web why](https://user-images.githubusercontent.com/15105131/41673366-01836716-74bd-11e8-8b63-39f5eaaf5b5b.jpg)
 
